@@ -1,8 +1,6 @@
 # bugger
-[adjective] [bug]
-
-Add bugs to bugs.js.
+[firstname] [lastname]
 
 Run with `node namer.js`.
 
-:bug:
+:heart:

@@ -1,5 +1,5 @@
-# bugger
-[firstname] [lastname]
+# hearthrob name generator
+[hunky firstname] [dreamy lastname]
 
 Run with `node namer.js`.
 
